@@ -1,0 +1,59 @@
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\bin\Debug\Pong Extreme.exe
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\bin\Debug\Pong Extreme.pdb
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\bin\Debug\Pong Extreme.xml
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong_Extreme.Form1.resources
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong_Extreme.Resources.resources
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong Extreme.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong Extreme.exe
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong Extreme.xml
+C:\Documents and Settings\HLS\Local Settings\Application Data\Temporary Projects\Pong Extreme\obj\Debug\Pong Extreme.pdb
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.exe
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.xml
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.pdb
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.exe
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.pdb
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.xml
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\ResolveAssemblyReference.cache
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form1.resources
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Resources.resources
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.vbproj.GenerateResource.Cache
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form2.resources
+E:\Horatiu Visual Basic\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.exe.config
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.exe.config
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.exe
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.xml
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.pdb
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form1.resources
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form2.resources
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form3.resources
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.read.1.tlog
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.write.1.tlog
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.exe.config
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.exe
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.xml
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.pdb
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResGen.read.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\bin\Debug\Pong Extreme.exe.config
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.exe
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.xml
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong Extreme.pdb
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form1.resources
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form2.resources
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\Pong_Extreme.Form3.resources
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Horatiu\My Documents\Programming\Horatiu Inc\Sony Vaio SA Programming\Visual Studio Projects\Pong Extreme\Pong Extreme\obj\Debug\ResGen.write.1.tlog

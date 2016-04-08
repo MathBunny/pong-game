@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pong Extreme">
+</Property><Property Name="Solution File" Value="H:\Visual Studio Projects\Pong Extreme\Pong Extreme.sln">
+</Property><Property Name="Date" Value="Monday, January 02, 2012">
+</Property><Property Name="Time" Value="11:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Pong Extreme" Source="Pong Extreme\Pong Extreme.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pong Extreme" Source="Pong Extreme\Pong Extreme.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pong Extreme.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pong Extreme.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pong Extreme" Source="Pong Extreme\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Pong Extreme" Source="Pong Extreme\app.config" Description="Converted">
+</Event></UpgradeLog>
