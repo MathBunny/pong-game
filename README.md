@@ -12,4 +12,8 @@
 * You can open the .exe file in the debug folder
 * Ensure that you have the .NET 4.0 framework
 
-This program was created on December, 2011.
+##Screenshot:
+![Screenshot](http://www.horatiulazu.ca/software/images/Pong.png "Screenshot")
+
+######This program was created on December, 2011.
+
